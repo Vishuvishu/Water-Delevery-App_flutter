@@ -1,0 +1,19 @@
+{
+    "object_array": [
+        {
+            "image": "images/illu_1.png",
+            "title": "We provide best quality water ",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed "
+        },
+        {
+            "image": "images/illu_2.png",
+            "title": "Schedule when you want your water delivered",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed "
+        },
+        {
+            "image": "images/illu_3.png",
+            "title": "SFast and responsibily delivery ",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed "
+        }
+    ]
+}
