@@ -1,6 +1,6 @@
-# waterapp1
+# waterapp
+this is flutter app for water delivery system made with basic flutter knowldege may alll features not work but for beginner or intermediate developer it is very good project
 
-A new Flutter project.
 
 ## Getting Started
 
